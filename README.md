@@ -1,2 +1,2 @@
-# ProjectD-Label-A
-Face recognition voor bedrijf Label A
+# ProjectD
+Label-A Machine vision
